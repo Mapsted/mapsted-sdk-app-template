@@ -6,7 +6,7 @@
 	<dict>
 		<key>AlertTableViewCell.nib</key>
 		<data>
-		UTcGryoqQIJzBgUDItDVpWbobhA=
+		NOK8b7w3Lq8lTfTmlg4hPDxEKc4=
 		</data>
 		<key>Alerts.storyboardc/EXPLORETABLE_VC.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		GAKIqMLvjY+CXp7MW3jA3rbCXhQ=
+		SeifGl7P2ovY4HcYKDyMAg+1DvQ=
 		</data>
 		<key>Base.lproj/attributions.plist</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>BuildingTableViewCell.nib</key>
 		<data>
-		nIENDICudP/LQeZnnS15tXmnLRQ=
+		KXGtMETGk6MicImKmrkB5lvZa5k=
 		</data>
 		<key>Category.storyboardc/ChooseCategoryViewController.nib</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		St4knNT2cF5GlEP1QaPoSDLC95Q=
+		of3ptvPV1zaHy1cqVQT0PIxwWys=
 		</data>
 		<key>InfoScreenViewController.nib</key>
 		<data>
@@ -174,11 +174,11 @@
 		</data>
 		<key>Login.storyboardc/lp3-AI-OAK-view-PXX-aq-HCw.nib/runtime.nib</key>
 		<data>
-		7hsm6uJmLprwi7vRsWI4fRmHzaQ=
+		8jumijWCqF8ZztAZRZ6ft1OxLIc=
 		</data>
 		<key>MPAboutAttributionTableViewCell.nib</key>
 		<data>
-		O4NB/DGEhyogtpR9go7A5GSOQ5I=
+		A1VktSpu3WWYLK9xTPs3dy+KfpY=
 		</data>
 		<key>MPAboutAttributionViewController.nib</key>
 		<data>
@@ -214,27 +214,27 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		3aE1w004gW6751f2HrpNrYSwWWk=
+		0O6zsdBJK0a5iAcu7xcwJBJ/cpU=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		k47nMbVlscygdsAC3LbUZHUFmLk=
+		EuCUMrYrorlNCv5hiIWL+dyDZcE=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		YRA0V+RnTv47cKpXSiR+ZIWbiTE=
+		sICdsoLUFQoQiQt/RJCnizMI4yI=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		eq7pxadrpRYB3H1sbEsFgR2OrVw=
+		KQ5sS1Pb2X5ph2mcuaKoP/U/pyo=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		KUJvXMJAPEjKITcMgMG3opIjzrg=
+		B2sdP2rXMh1dcsAVgld1UssHdg4=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		UtlDAmW28MoVBj7n7fzWJptVxxQ=
+		feWS1lDNC9JnvJ+4LqeOUDoFq9E=
 		</data>
 		<key>MultiStoreHeaderView.nib</key>
 		<data>
@@ -254,7 +254,7 @@
 		</data>
 		<key>NewsTableViewCell.nib</key>
 		<data>
-		PMKbdfsrJYU14gwgPRQDAOa3TtY=
+		UMKIBOzTqtuP/SwHUFhV58pxVhY=
 		</data>
 		<key>PropertyAboutTableViewCell.nib</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Search.storyboardc/PUD-w4-PWZ-view-ZRB-sn-OOu.nib</key>
 		<data>
-		JHx7xCv10gpVxFMhVk+1e5Tby6k=
+		vVncO4T1coXsM+32DENGAnUx+ig=
 		</data>
 		<key>Search.storyboardc/tfr-8n-3Gy-view-sgl-OO-MaO.nib</key>
 		<data>
@@ -326,7 +326,7 @@
 		</data>
 		<key>Setting.storyboardc/tb4-aW-8xN-view-U5Y-cd-83Q.nib</key>
 		<data>
-		JJmPpctE5TexTufTSgB7oo7ersM=
+		1wsU51FZEqmlF6Qqb2b1Qj/RQVM=
 		</data>
 		<key>SettingCell.nib</key>
 		<data>
@@ -338,11 +338,11 @@
 		</data>
 		<key>SplashScreenViewController.nib</key>
 		<data>
-		vng+Om65V6Sd/IjNMVS70P+uHOs=
+		Wim4ZWFJkH1Wg4UPXiblFjNTuwI=
 		</data>
 		<key>StoreRow.nib</key>
 		<data>
-		KioEGvEXdBS6JjMTw6b7ysCxu+4=
+		pZZ6Ii3X8OFVeVWl/maC54Xu8SM=
 		</data>
 		<key>SubCategoryTableViewCell.nib</key>
 		<data>
@@ -362,7 +362,7 @@
 		</data>
 		<key>WebView.storyboardc/7qU-cd-JW8-view-vnL-7f-C7E.nib</key>
 		<data>
-		4fQuMpLSzOeXKdnA/s8zTg62u8Q=
+		zZhN3ioz4G70nZyLso7w/uNxEXk=
 		</data>
 		<key>WebView.storyboardc/Info.plist</key>
 		<data>
@@ -392,11 +392,11 @@
 		</dict>
 		<key>database.momd/VersionInfo.plist</key>
 		<data>
-		5oZ8w/k6zD+amkTVaRmmSREC2e0=
+		NTt4r5hjm9Bo1nJflrSNr+OGGHk=
 		</data>
 		<key>database.momd/database.mom</key>
 		<data>
-		Gc6FULz8+cEdI1XdYZZ1DKZdNo8=
+		k5gc0luVwamt7/UhqlNFbRTHdiw=
 		</data>
 		<key>en-CA.lproj/Localizable.strings</key>
 		<dict>
@@ -675,7 +675,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			APEnOMRcL5Obyzpw5HPaRKApKEVLDwxDG26FiuLwuz8=
+			Xy5851hhI35Nh7xQU4t7FiLXRr/acRtNLyzJJTOcXCc=
 			</data>
 		</dict>
 		<key>Alerts.storyboardc/EXPLORETABLE_VC.nib</key>
@@ -717,7 +717,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YiEn0aBAY79UEBL5POt6d3N5GgHp/XJfE+4sEWUN5Fw=
+			6Pl8pWa19rif07FqJbrNf4/13D8n4Ek1C9QZzmEWljg=
 			</data>
 		</dict>
 		<key>Base.lproj/attributions.plist</key>
@@ -745,7 +745,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k9cYTaNGG6GkOsV+X37PeiSp4AZlhD5Ro6WjU1IXsrE=
+			9c11KWL4ttjyDhQ8IM5vlemtDslljckAsxQMDKz8/8I=
 			</data>
 		</dict>
 		<key>Category.storyboardc/ChooseCategoryViewController.nib</key>
@@ -962,14 +962,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8iOgccYfhsdRPitbASwxWVB9VxgBETSB6SO74CyBr1Q=
+			uQziqIqjp7DNGYV0dcogrNEYCXz/sPiYAwRSVyQdJX8=
 			</data>
 		</dict>
 		<key>MPAboutAttributionTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mJuszQ3IUIphXWanxpOZfj5yoBRo6bXNeUq93aT4hJA=
+			jJPxiUdQfVH+4X+T9PnvMKx2qaelQwO41+ykdfQizsY=
 			</data>
 		</dict>
 		<key>MPAboutAttributionViewController.nib</key>
@@ -1032,42 +1032,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V4K34635P0IHgu3CKV3oyj9LuEo/rKwUmw95Vub7Y40=
+			xabXJllNOR2W0gsI7kNrkRphRPgg0QRhg5slEFT7CyI=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JN4PFznOQFwj0efa2+C2NEVNcWgcm/iws1SqA3A7TBo=
+			Ou8/Q/PTjYyYF3Drp2/yg+x4qpsZxYsUuQ7Esm9dVS4=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/8SyELaFIP8N5EWJ8EMnvWIQqK8QxEq8HTTX2K5Fdy4=
+			vtnYIrl6j1TIt9apqUTkZvKN/HKAIdwKVMEtUZMxjYs=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cI2pjTQYGaYs0yKAmQm+yruV4p1v+5hbuJdHr3TeaSs=
+			GBpRkXWxwmb4VtOSEZBfUh+G0p8TAxbpDb8MqPHUIjE=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jg3t54h8PcpIeYZHkfk8Lvis3+fv8bYVrfDKTE9PvGI=
+			vjRAt1hK9fvcZouZMJLnhz5RfGS1uERpjkKpiujZHjY=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eSi7ud0q7yJwHFdKge2+4aKIXmst0YLGc0OdjhmO9Mw=
+			3ULrxGV83PPBgqoniPv3RZqf6TvhEItH+SVcnoAoMPI=
 			</data>
 		</dict>
 		<key>MultiStoreHeaderView.nib</key>
@@ -1102,7 +1102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zks8D+bTPBCIKv0rhDophNTrpXhHzR07JdD/cKFnH7g=
+			OQldPTUdxGq8cj0H5lPLQDRmf8RKmhczpEVZBxrAFbE=
 			</data>
 		</dict>
 		<key>PropertyAboutTableViewCell.nib</key>
@@ -1172,7 +1172,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HgwJWODvU0dl8ICpSQmbo7mJNfEnLjhJsHHRTV5i/iU=
+			QEqpJ5/5oiGpP4/6zxFcHGEyaMlgsF1x+z/4OlRKqVs=
 			</data>
 		</dict>
 		<key>Search.storyboardc/tfr-8n-3Gy-view-sgl-OO-MaO.nib</key>
@@ -1228,7 +1228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SgHdpdJpYxG50JDHEqP6Edv7sPsRS2H2P5EBtKdrqv0=
+			p/6g3utW7U7CH9MZXjZPs/jcQYe9GNbqoDzBd+2qYyo=
 			</data>
 		</dict>
 		<key>SettingCell.nib</key>
@@ -1249,14 +1249,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nek0wrLrbV/6RzzH4RIQEgP+FVhWgXPSXE5v8hZrMsc=
+			nikNhT6RbExGM7lu7RXFD1NvCiXiLUc10eP1Dtd2KWQ=
 			</data>
 		</dict>
 		<key>StoreRow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p6jeVIgn1RUKxnjOQJj6XeY5smj5HQCTquPBRA2nP4k=
+			vLdYSKGMVKDKp/X3DNsbjgYiTf7CBFtXL5vvkBZLbiU=
 			</data>
 		</dict>
 		<key>SubCategoryTableViewCell.nib</key>
@@ -1291,7 +1291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lK+jVN0Fg5c/hjlX7LJs7BYDLLzGwJ3gC8IX+4wX7o4=
+			+c4U6rcs7F/QGXbtPz62cHuaIeOFnGoZpwBHLojiNT4=
 			</data>
 		</dict>
 		<key>WebView.storyboardc/Info.plist</key>
@@ -1330,14 +1330,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+jhTpIR1M0+EHJlBdX6sAyTbcdsvPleA2OKKFkM5I4=
+			FKEbk7DdjwxWeBRkxRLwvyX1o0fvurpU3fngzCmlC3k=
 			</data>
 		</dict>
 		<key>database.momd/database.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZqKszL66Y1M52qnOYrqTC83t+gIe2RpL9mN2jo2JPq4=
+			UjMjQQ1yMo0gAb7c2Zq5yZbvSPK9OAY/fi1eeMcXO0w=
 			</data>
 		</dict>
 		<key>en-CA.lproj/Localizable.strings</key>
