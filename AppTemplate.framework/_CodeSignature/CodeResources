@@ -30,7 +30,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ONmQAk6RDUbwOmCHaJO+mWtLXnY=
+		3LtsDiTppRddqHDf2KK6TenPBEw=
 		</data>
 		<key>Base.lproj/attributions.plist</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GLhnrskgtSSD5B2T7qfq6SPk8PM=
+		b5gy1WW+f1WYhJQDh6vlBi27bCc=
 		</data>
 		<key>InfoScreenViewController.nib</key>
 		<data>
@@ -214,15 +214,15 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		h/addgunk38+ygpnES4NHDRRoQY=
+		k66gVWzmzOz1R+Cj1AqDNF0tlqM=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		6A81o6pp5d581jkvWzsO4yCfLHk=
+		Z2cRPaLaoNBXOR+Qnn76s28KzcI=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		sICdsoLUFQoQiQt/RJCnizMI4yI=
+		nYL25ZuZcEYH7LAcpH6VbBTvLlQ=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		B2sdP2rXMh1dcsAVgld1UssHdg4=
+		p15ggpvv2oz3ccQ2CIKDLyJeSMI=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/GbU8GEomphmTcXo3cx/ITaWkac=
+		pVa36X2L+HkVNRbi05W7sXCn89k=
 		</data>
 		<key>MultiStoreHeaderView.nib</key>
 		<data>
@@ -717,7 +717,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q8aMnzsUHdF2x/ouJOj9DwmL9cSJdPvCP/u8zCWJBow=
+			L4kJjmuF1A8Vy05Tssg6ltZvdqJyKt0gbBVLP7IVGT4=
 			</data>
 		</dict>
 		<key>Base.lproj/attributions.plist</key>
@@ -1032,21 +1032,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BlYB2fGZJipYGbRBWkLul8KA9rMHd2oLAN/CtM/VmqQ=
+			Jpol7eiCJMIkoZkuPHvpnSE1bvmbEbTNCh2MN2cOZP0=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XFXAUFwOgkaL7rZTTZDzo20nD1wR0vDIOSuB/7jELhU=
+			rx8kFkGgYPXHKgu4R3ecpwH07aL6lqYUWhziEuK39sU=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vtnYIrl6j1TIt9apqUTkZvKN/HKAIdwKVMEtUZMxjYs=
+			JZtYHL9x8l3ZPZIUQlS3D4NzR5zMRE/lg8BiXHePlVA=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1060,14 +1060,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vjRAt1hK9fvcZouZMJLnhz5RfGS1uERpjkKpiujZHjY=
+			8Bs2cvDurCoSnjkelSRDGDvnl7TOShGAb/siIQV1pO8=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pTZMUt1vE9gZmL+MTUMzdIcte/PZQu0+czXUnLsgELU=
+			nWOVnC72QY9NjBMkvqNE4n8V1I2tHRER2sPKHB6GaK8=
 			</data>
 		</dict>
 		<key>MultiStoreHeaderView.nib</key>
