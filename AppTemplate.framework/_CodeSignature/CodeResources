@@ -30,15 +30,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		an4wpW4OCbHST8t0itwjFzm5y9U=
+		ONmQAk6RDUbwOmCHaJO+mWtLXnY=
 		</data>
 		<key>Base.lproj/attributions.plist</key>
 		<data>
 		4pWOTw2b/EaB+4uCAYFeId3IwAw=
-		</data>
-		<key>BuildingFavoritesTableViewCell.nib</key>
-		<data>
-		q3PKg5soWXGLlSbfoJtDQ9ytPiU=
 		</data>
 		<key>BuildingItemCollectionViewCell.nib</key>
 		<data>
@@ -76,61 +72,9 @@
 		<data>
 		zLHlW4vpKG4WSWurVeWoqgqz9eA=
 		</data>
-		<key>FavoritableWithImageTitleDescription.nib</key>
-		<data>
-		Qv7l9TqFqs8H68JC5/7o4udA5SI=
-		</data>
-		<key>FavoriteListViewController.nib</key>
-		<data>
-		EuSGfscIxKyymIV6yfbTrfujWOw=
-		</data>
 		<key>Headers/app_template.h</key>
 		<data>
 		KEe1XpffuPsOdU529d5Jg17olEk=
-		</data>
-		<key>HelpMeFind.storyboardc/9b8-16-pfh-view-irF-3B-81q.nib</key>
-		<data>
-		SdfXqZ35YC40ZixB3gpC4k8+LlI=
-		</data>
-		<key>HelpMeFind.storyboardc/9dt-OA-Ot7-view-lB3-hF-zHk.nib</key>
-		<data>
-		d39eFMsTU/W/VD1qLAQ6g5ZDwxQ=
-		</data>
-		<key>HelpMeFind.storyboardc/FavoritesList_VC.nib</key>
-		<data>
-		e5/QGuAEcMPxPbgJUcLAWZF014k=
-		</data>
-		<key>HelpMeFind.storyboardc/HelpMeFind.Alerts.nib</key>
-		<data>
-		u9mHLbyxqMtvFqkcSBMto0OjhAQ=
-		</data>
-		<key>HelpMeFind.storyboardc/HelpMeFind.Explores.nib</key>
-		<data>
-		iDSdt95Tknbp4MIwWnJPEQF9nWw=
-		</data>
-		<key>HelpMeFind.storyboardc/HelpMeFind.Recents.nib</key>
-		<data>
-		rJrh8ev09mDUMxRsq7eMbZplipU=
-		</data>
-		<key>HelpMeFind.storyboardc/Info.plist</key>
-		<data>
-		dMpfJsVKS/jJwtXec9itHfJQDWs=
-		</data>
-		<key>HelpMeFind.storyboardc/UITableViewController-sPk-lk-56D.nib</key>
-		<data>
-		R4CwkyF8oaojI0au71UgnV3jcPo=
-		</data>
-		<key>HelpMeFind.storyboardc/aIe-Rg-rQf-view-QBi-Zf-cUw.nib</key>
-		<data>
-		BUyra03VCcHLAtoA5frfqDdN/gs=
-		</data>
-		<key>HelpMeFind.storyboardc/meZ-jU-IEz-view-sMK-3g-pcW.nib</key>
-		<data>
-		BUyra03VCcHLAtoA5frfqDdN/gs=
-		</data>
-		<key>HelpMeFind.storyboardc/sPk-lk-56D-view-raB-Vj-MqD.nib</key>
-		<data>
-		BUyra03VCcHLAtoA5frfqDdN/gs=
 		</data>
 		<key>HistoryViewController.nib</key>
 		<data>
@@ -138,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DLOiASPJG7FkVEFIwngDWIi5jkw=
+		GJGnFPb8ABP2Dki+d5an3LcI+70=
 		</data>
 		<key>InfoScreenViewController.nib</key>
 		<data>
@@ -151,10 +95,6 @@
 		<key>LaunchViewController.nib</key>
 		<data>
 		PYQAjxxze+goKItPOM1ARUWvbis=
-		</data>
-		<key>LocationShareTableViewCell.nib</key>
-		<data>
-		VocT2LGXEX9Zdaerzg9BD3li+uY=
 		</data>
 		<key>Login.storyboardc/ContainerTopViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -204,21 +144,13 @@
 		<data>
 		Wj0UaDzj03dZVhpdCmn4sp5a+wk=
 		</data>
-		<key>MenuViewCell.nib</key>
-		<data>
-		MSFD3R6S+tjVWA4OzBHYxjT8iio=
-		</data>
-		<key>MenuViewController.nib</key>
-		<data>
-		SdANLoEA/wq5v3jnHFWmZJeRhNo=
-		</data>
 		<key>Modules/AppTemplate.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		7f2eCv+eiAuQjTy5JDtTbHa3+68=
+		FvxB4vAnX/TcISXvJ3OftujY6h8=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		xK7ZF+ypakURK7q60OdVzq23zD4=
+		D1FAQFx1TRIHK27lHPPtByJ87zc=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -234,7 +166,7 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/odmiJ1d8sn/at/0T3AOuCuVFRc=
+		qJFZpzToxdS42ubd/xeSV3wL4+A=
 		</data>
 		<key>MultiStoreHeaderView.nib</key>
 		<data>
@@ -351,10 +283,6 @@
 		<key>TableHeaderView.nib</key>
 		<data>
 		i5eEufZsW0hDF0DXerbpgVlQ8no=
-		</data>
-		<key>TableHeaderViewWithTitle.nib</key>
-		<data>
-		ANU1BjbLu3sG68RJKw9mTeY0rd4=
 		</data>
 		<key>VersionPopupViewController.nib</key>
 		<data>
@@ -717,7 +645,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubjYMtq8cIGKSLqbbUiDe1ii63/y1TkqGxdw7hPQnpI=
+			Q8aMnzsUHdF2x/ouJOj9DwmL9cSJdPvCP/u8zCWJBow=
 			</data>
 		</dict>
 		<key>Base.lproj/attributions.plist</key>
@@ -725,13 +653,6 @@
 			<key>hash2</key>
 			<data>
 			Se5fwEPUzFtXgoasANjbifcN1Wo4ZPE8Kpp4oHxV0wY=
-			</data>
-		</dict>
-		<key>BuildingFavoritesTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XDj6aEeoApBObXOGNc0XRjIPemEtK2nua539/jxGlnQ=
 			</data>
 		</dict>
 		<key>BuildingItemCollectionViewCell.nib</key>
@@ -797,102 +718,11 @@
 			LKpKNvP8plu025lRW1SOMgeZc/xK89axtD+glDqHKco=
 			</data>
 		</dict>
-		<key>FavoritableWithImageTitleDescription.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bFsRON7/+s4BrxB/scUjU1vMR+g0H+/3yBNRfJSCiGo=
-			</data>
-		</dict>
-		<key>FavoriteListViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lXZK0pD1M7Eb55x9skD0aZ0N4IBXR9Udt0vncsXVpsE=
-			</data>
-		</dict>
 		<key>Headers/app_template.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			aXu0SKkYCaeINS/53MQ9GvkWz/fIOObr65oAWjxkorQ=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/9b8-16-pfh-view-irF-3B-81q.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			StrqwEO3O7Gdy8q2Q8/NYjUj2hV0ZS6YEqrxSdjzVLI=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/9dt-OA-Ot7-view-lB3-hF-zHk.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vwo3nIpatamivXDkb/op9LXa+N7tNii0vvT673KtqAY=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/FavoritesList_VC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fj/7lTxeQGRbrzX+GJiVv7KdmGwtfXrODrz8yusHSOw=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/HelpMeFind.Alerts.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/DxhXih0MmMFop6IBn+4j2ZFzfWLYlhB1SKsyqVedBM=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/HelpMeFind.Explores.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lljwWHaU6YYeNpsXTOFadnWXPkc2cCoONjMmiqv7kiE=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/HelpMeFind.Recents.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			akvHQyoZhQsKbv1hByt66GjauF8kg0OX0RwcjEFpDRg=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/PyXtdAPCIb+WNoQLoADuCzOQGPBSIIg34StpLtMnHw=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/UITableViewController-sPk-lk-56D.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vJngc4uoeDg95xSR9T8Rvgb0ZGCZ99anbjTLmCNsgvo=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/aIe-Rg-rQf-view-QBi-Zf-cUw.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sLMTZHFJh7IetKMd2JkTPG2oEqBLfjfO9GgYFHfPzAo=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/meZ-jU-IEz-view-sMK-3g-pcW.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sLMTZHFJh7IetKMd2JkTPG2oEqBLfjfO9GgYFHfPzAo=
-			</data>
-		</dict>
-		<key>HelpMeFind.storyboardc/sPk-lk-56D-view-raB-Vj-MqD.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sLMTZHFJh7IetKMd2JkTPG2oEqBLfjfO9GgYFHfPzAo=
 			</data>
 		</dict>
 		<key>HistoryViewController.nib</key>
@@ -921,13 +751,6 @@
 			<key>hash2</key>
 			<data>
 			/PJg/IVEILnnSyEKag3iwoUK1oaLbQHP/g0kZ8x9Nbo=
-			</data>
-		</dict>
-		<key>LocationShareTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CqAGlG122DuXLtaDF6ZFmqsB4QDf8tvwoesUftTRplY=
 			</data>
 		</dict>
 		<key>Login.storyboardc/ContainerTopViewController.nib/objects-14.0+.nib</key>
@@ -1014,32 +837,18 @@
 			tSXw76lWTHm2fkNd30umTFaOPLeYBK8a46mvHCmIIe4=
 			</data>
 		</dict>
-		<key>MenuViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Vec1HBLT5XTVHFMLaAzpEM3vN1NHCDJ56Yov70E6QHo=
-			</data>
-		</dict>
-		<key>MenuViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MtLNvcNlKmH93+4LYTWwYFWDFJD/RiLHNAEgT/EFjX0=
-			</data>
-		</dict>
 		<key>Modules/AppTemplate.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K/wCQ5hdnEhcvXZk6u8hyOPaBUe5vqhF6lBFOMGrWmo=
+			s4vSI67XJrLRgeDRPzfH0j29HBf5YV8oz4v4M0SdKrU=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tDdB45/syrAsi/q1yJLZuOQ9xxbONKtwwlf23sMj46A=
+			dpNIDuOBDpJfai9Rt7dZfKFflqsoGFrUOS9EK66oOik=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1067,7 +876,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZLMjT6yqxZ1Gw62znuM/flKEPtX1aXMA3scPWF4EGq0=
+			D1UMSd6oKUBnM9Cyi3b5eIUmOCd8+if5yqzDZwcBPd8=
 			</data>
 		</dict>
 		<key>MultiStoreHeaderView.nib</key>
@@ -1271,13 +1080,6 @@
 			<key>hash2</key>
 			<data>
 			X0geATXc+hA9uUIfi0cjx6RqFTfZbcRx1WtpMv1zd0w=
-			</data>
-		</dict>
-		<key>TableHeaderViewWithTitle.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			A7siYJXsOJk/7Rq6yxv3SmJDQZBG4Ucug5cUuBeLNZg=
 			</data>
 		</dict>
 		<key>VersionPopupViewController.nib</key>
