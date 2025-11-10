@@ -30,7 +30,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		qvekazNq58xw/7xdcaqv0BXJv0Q=
+		an4wpW4OCbHST8t0itwjFzm5y9U=
 		</data>
 		<key>Base.lproj/attributions.plist</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gO30zIopPGBkHgSOmqeq5eGklRI=
+		8AGd0uQBj/yEyOZ5gwpZ9+TWXvY=
 		</data>
 		<key>InfoScreenViewController.nib</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		ebv4Gpo/1ixv4M+KbtuOr5Lb3iE=
+		Y/ylKIU20VFSlNuGnACIkdTWB/g=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		FgKCJjJpsdJmHyeFgW/TArGSzl0=
+		fqIckpc8HCA/70ICU20qEq5mm/w=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		KChXCbTrzUkzGf/gIman+xxIIJA=
+		E7X8JMwSjHFc445p7FStJ9ARfTQ=
 		</data>
 		<key>MultiStoreHeaderView.nib</key>
 		<data>
@@ -645,7 +645,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			19TSM99QSanjMFrfdHBpLq7fIBS+AMED51OjGy0h7CY=
+			ubjYMtq8cIGKSLqbbUiDe1ii63/y1TkqGxdw7hPQnpI=
 			</data>
 		</dict>
 		<key>Base.lproj/attributions.plist</key>
@@ -841,14 +841,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PYlqP+Sw/XY3rZpgzrYq2N5YJomhywetWzQvcxVBZyI=
+			6lStAIIrEE9n4Ba92JPXNougdABMXJXVmm2MRYpctvM=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A1uGKT0Z1ahL+mLe/APeI+Y3CWziIJsAhVD3hPOTYIY=
+			I2R2sBUbfCrYIj7sC5Gio+GWJYzBovGvgE2LrVdkQ8s=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -876,7 +876,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K+kzgHPH50TSshXd5pxxc02DnRRiVBCnxxGpLNmN2sE=
+			AUYwqd3W94x83inoM2tjuX8unepLi4jUrDPhfBR4ZoM=
 			</data>
 		</dict>
 		<key>MultiStoreHeaderView.nib</key>
